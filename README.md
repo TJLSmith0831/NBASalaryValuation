@@ -21,29 +21,29 @@ Athletes in the NBA receive multi-million dollar contracts on a yearly basis. Ho
 * Chris Davis NBA Salaries (https://data.world/datadavis/nba-salaries)
 
 ## Exploratory Graphs and Distributions
-![title](images/positionHist.png)
-![title](images/medSalaries.png)
-![title](images/salGrowth2.png)
+![Positional Histogram](nbaSalaries/images/positionHist.png)
+![Median Position Salary](nbaSalaries/images/medSalaries.png)
+![Median Salary Growth](nbaSalaries/images/salGrowth2.png)
 
 ## Model
 ### Correlations
-![title](images/correlations.png)
+![Correlations](nbaSalaries/images/correlations.png)
 
 ### Results
-![title](images/valuation.png)
+![Results](nbaSalaries/images/valuation.png)
 
 ## Optimization Questions
 ### Question 1 - Which players have a fair-value contract?
-![title](images/fairvalued1.png)
-![title](images/fairvalued2.png)
+![Fair1](nbaSalaries/images/fairvalued1.png)
+![Fair2](nbaSalaries/images/fairvalued2.png)
 
 ## Question 2 - Which players are overpaid?
-![title](images/overvalued1.png)
-![title](images/overvalued2.png)
+![Over1](nbaSalaries/images/overvalued1.png)
+![Over2](nbaSalaries/images/overvalued2.png)
 
 ### Question 3 - Which players are undervalued? What are they worth?
-![title](images/undervalued1.png)
-![title](images/undervalued2.png)
+![Under1](nbaSalaries/images/undervalued1.png)
+![Under2](nbaSalaries/images/undervalued2.png)
 
 
 
